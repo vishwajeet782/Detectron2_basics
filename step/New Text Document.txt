@@ -1,0 +1,12 @@
+1=https://www.youtube.com/watch?v=Pb3opEFP94U&t=88s
+2=(conda shell) -    conda create --prefix=yourEnvName python=x.x-
+3=conda activate enviroment
+4=conda install pytorch torchvision torchaudio cudatoolkit=11.0 -c pytorch
+5=(pip install cython) to use detectron
+6=git clone https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmF4dnEyS0JCNVJ5ZzJ6bXRiSm1Md2p6WTFpZ3xBQ3Jtc0tuM0taRm92bnhIbXdDa0tuRTlHWU85aUlYZ0ExNlpJZnNCREpDNlY5eE9iUDVNVjF3MlBqNlR2NlZWVmszVlJaN3dNb3duem10QnA0bmVQNDB1V0tqYUFEZkFfQ3J3SDlzcFN4T0M3Njl4cGljdC1PQQ&q=https%3A%2F%2Fgithub.com%2Ffacebookresearch%2Fdetectron2.git
+7=cd detectron2 
+8=pip install -e
+9=pip install opencv-python
+10=https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16
+11=conda install pywin32
+12=.torch/pretrained cached models
