@@ -10,3 +10,4 @@
 10=https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16
 11=conda install pywin32
 12=.torch/pretrained cached models
+13=(self.cfg.MODEL.DEVICE="cpu") to use cpu otherwise instead if cuda enabled gpu write cuda
